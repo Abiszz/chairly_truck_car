@@ -1,0 +1,39 @@
+h1{
+    font-family: "Dancing Script", cursive;
+    text-align: center;
+}
+img{
+    text-align: center;
+}
+.gruppo-regular {
+    font-family: "Gruppo", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+p{
+    font-family: "Architects Daughter", cursive;
+    text-align: center;
+    background-color: rgb(247, 166, 61);
+    font-size: larger;
+}
+button{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(37, 20, 4);
+    color: rgb(170, 170, 3);
+    font-family: "Rubik Scribble", system-ui;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 70px;
+    border-radius: 30px;
+    text-align: center;
+
+}
+.but{
+    border-radius: 340px;
+    font-size: 50px;
+}
+h2{
+    text-align: center;
+    background-color: brown;
+    color: beige;
+}
